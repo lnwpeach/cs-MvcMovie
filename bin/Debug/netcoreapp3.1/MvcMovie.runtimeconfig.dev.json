@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\peach\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\peach\\.nuget\\packages"
+    ]
+  }
+}
